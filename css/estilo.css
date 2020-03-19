@@ -1,0 +1,14 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.carregando{
+    color: blue;
+    font-weight: bold;
+}
+
+.erro{
+    color: red;
+    font-weight: bold;
+}
